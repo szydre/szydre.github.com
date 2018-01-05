@@ -8,6 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+{% soundcloud groups 438 color=282828 show_artwork=true %}
+
+
 ```markdown
 Syntax highlighted code block
 
