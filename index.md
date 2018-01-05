@@ -4,8 +4,9 @@ You can use the [editor on GitHub](https://github.com/szydre/szydre.github.com/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+HERE COMES PLAYER:
 {% soundcloud playlists 162602 show_comments=false show_playcount=false show_user=false show_artwork=false %}
-
+DONE:!
 
 ```markdown
 Syntax highlighted code block
